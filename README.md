@@ -57,7 +57,7 @@ You can install Blackout in **two ways**:
 
 ### **Option A — Use the Compiled `.exe` (Recommended, No AutoHotkey Required)**
 
-1. Download the precompiled `Blackout.exe` from the **Releases** section of this repository.
+1. Download the precompiled `Blackout.exe` from the [**Releases**](https://github.com/Link2999/Blackout/releases) section of this repository.
 2. Place it anywhere on your system, for example:
    ```
    C:\Programs\Blackout\blackout.exe
