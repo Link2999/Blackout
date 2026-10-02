@@ -7,7 +7,7 @@ A lightweight AutoHotkey v2 tool that automatically blacks out your display when
 ## 📋 Table of Contents
 - [About the Project](#-about-the-project)
 - [Key Features](#-key-features)
-- [Getting Started](#getting-started)
+- [Getting Started](#%EF%B8%8F-getting-started)
   - [Installation](#installation)
   - [Automatic Startup](#automatic-startup)
 - [Usage](#-usage)
